@@ -35,7 +35,7 @@
 }
 
 #headerprincipale {
-    background-image: url(https://dl.dropbox.com/s/oai4k61cbc4129z/official_menu.png);
+    background-image: url(https://giancly96.github.io/Gulproject/assets/images/menu.png);
     background-repeat: no-repeat;
     background-position: center;
     width: 1280px;
@@ -216,7 +216,7 @@ padding-top: 30px;
 }
 
 .barra1_immagine {
-    content: url(https://dl.dropbox.com/s/7gsxgetust8566c/barra.png);
+    content: url(https://giancly96.github.io/Gulproject/assets/images/barra.png);
     margin-bottom: -170px;
     margin-top: -60px;
     margin-left: -15px;
@@ -356,7 +356,7 @@ padding-top: 30px;
 /* barra 2 - scambi */
 
 .barra2_immagine {
-    content: url(https://dl.dropbox.com/s/7gsxgetust8566c/barra.png);
+    content: url(https://giancly96.github.io/Gulproject/assets/images/barra.png);
     margin-bottom: -280px;
     margin-top: 60px;
     margin-left: -15px;
@@ -424,7 +424,7 @@ padding-top: 30px;
 /* Orario */
 
 .barra3_immagine {
-    content: url(https://dl.dropbox.com/s/7gsxgetust8566c/barra.png);
+    content: url(https://giancly96.github.io/Gulproject/assets/images/barra.png);
 }
 
 #barra3 h4 {
