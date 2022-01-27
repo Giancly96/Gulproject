@@ -255,7 +255,6 @@ padding-top: 30px;
 .immagine_pokemon2 {
     margin-top: 5px;
     margin-bottom: 15px;
-    margin-left: 15px;
 }
 
 .mosse {
@@ -631,10 +630,6 @@ padding-top: 30px;
     .bordi_principali {
         margin-left: 15px;
         margin-right: 15px;
-    }
-
-    .immagine_pokemon2 {
-        margin-right: -15px;
     }
 
     .font_nome_pokemon {
