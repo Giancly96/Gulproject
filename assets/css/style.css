@@ -193,6 +193,10 @@ padding-top: 30px;
     list-style-type: none;
 }
 
+.dettagli_info {
+    list-style-type: none;
+}
+
 #menuprincipale li a {
     color: white;
     font-size: 25px;
