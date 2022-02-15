@@ -121,11 +121,11 @@ margin-right: 65px;
 }
 
 .testoITA::after {
-    content: "Benvenuto nel mio store! Se fai 3 o più ordini contattami prima di concludere l'acquisto per avere diritto a uno sconto!";
+    content: "Benvenuto nel mio store! Qui potrai trovare pokèmon evento, pokémon leggendari, pokémon shiny e molto altro. Per qualsiasi dubbio e richieste contattami su uno dei miei social";
 }
 
 .testoING::after {
-    content: "Welcome to my store! If you make 3 or more orders please contact me before buying to get a discount!";
+    content: "Welcome to my store! Here you can find event pokémon, legendary pokémon, shiny pokémon and much more! For any questions and requests contact me on one of my social networks";
 }
 
 /* Orari */
