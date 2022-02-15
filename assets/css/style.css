@@ -605,6 +605,11 @@ padding-top: 30px;
 /* Effect of showing the sidebar - ends */
 
 @media only screen and (max-width: 767px) {
+    .nascondi {
+        display: none;
+        visibility: hidden;
+    }
+    
     .solomobile {
         display: block;
         visibility: visible;
