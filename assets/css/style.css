@@ -3,6 +3,11 @@
     color: white;
 }
 
+.nascondi {
+    display: none;
+    visibility: hidden;
+}
+
 .solomobile {
     display: none;
     visibility: hidden;
