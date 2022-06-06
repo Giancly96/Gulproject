@@ -135,23 +135,23 @@ margin-right: 65px;
 
 /* Orari */
 .orariITA_Lunedì::after {
-    content: "14:00 - 16:00 | 21:00 - 00:00";
+    content: "14:00 - 16:00";
 }
 
 .orariITA_Martedì::after {
-    content: "14:00 - 16:00 | 21:00 - 00:00";
+    content: "14:00 - 16:00";
 }
 
 .orariITA_Mercoledì::after {
-    content: "14:00 - 16:00 | 21:00 - 00:00";
+    content: "14:00 - 16:00";
 }
 
 .orariITA_Giovedì::after {
-    content: "14:00 - 16:00 | 21:00 - 00:00";
+    content: "14:00 - 16:00";
 }
 
 .orariITA_Venerdì::after {
-    content: "14:00 - 16:00 | 21:00 - 00:00";
+    content: "14:00 - 16:00";
 }
 
 .orariITA_Sabato::after {
@@ -159,27 +159,27 @@ margin-right: 65px;
 }
 
 .orariITA_Domenica::after {
-    content: "21:00 - 00:00";
+    content: "09:00 - 14:00";
 }
 
 .orariING_Lunedì::after {
-    content: "02:00pm - 04:00pm | 09:00pm - 12:00am";
+    content: "02:00pm - 04:00pm";
 }
 
 .orariING_Martedì::after {
-    content: "02:00pm - 04:00pm | 09:00pm - 12:00am";
+    content: "02:00pm - 04:00pm";
 }
 
 .orariING_Mercoledì::after {
-    content: "02:00pm - 04:00pm | 09:00pm - 12:00am";
+    content: "02:00pm - 04:00pm";
 }
 
 .orariING_Giovedì::after {
-    content: "02:00pm - 04:00pm | 09:00pm - 12:00am";
+    content: "02:00pm - 04:00pm";
 }
 
 .orariING_Venerdì::after {
-    content: "02:00pm - 04:00pm | 09:00pm - 12:00am";
+    content: "02:00pm - 04:00pm";
 }
 
 .orariING_Sabato::after {
@@ -187,7 +187,7 @@ margin-right: 65px;
 }
 
 .orariING_Domenica::after {
-    content: "09:00pm - 12:00am";
+    content: "09:00am - 02:00pm";
 }
 
 #menuprincipale {
