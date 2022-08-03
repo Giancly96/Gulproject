@@ -366,6 +366,11 @@ padding-top: 20px;
     background-color: rgba(0,255,255,.12);
 }
 
+.Stats_IV {
+    font-size: 12px;
+    text-align: left
+}
+
 /* GO */
 
 .Polvere_di_Stelle_GO {
