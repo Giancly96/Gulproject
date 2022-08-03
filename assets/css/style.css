@@ -368,7 +368,13 @@ padding-top: 20px;
 
 .Stats_IV {
     font-size: 12px;
-    text-align: left
+    text-align: left;
+}
+
+.Form/Other {
+    font-family: Arial, Verdana;
+    color: black;
+    font-style: italic;
 }
 
 /* GO */
