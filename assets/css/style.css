@@ -681,6 +681,11 @@ padding-top: 20px;
         font-size: 20px;
         margin-top: -25px;
     }
+    
+    .mosse_piccole {
+        font-size: 18px;
+        padding-top: -25px;
+    }
 
     .fiocco {
         margin: 0;
@@ -782,6 +787,10 @@ padding-top: 20px;
 
 @media only screen and (max-width: 400px) {
     .mosse {
+        font-size: 17px;
+    }
+    
+    .mosse_piccole {
         font-size: 17px;
     }
 
