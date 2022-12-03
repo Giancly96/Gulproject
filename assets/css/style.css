@@ -23,7 +23,7 @@
 }
 
 .comingsoon_A{
-    display: none !important
+    display: unset
 } 
 
 .temporaneo_home {
