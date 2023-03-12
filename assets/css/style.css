@@ -151,7 +151,7 @@ margin-right: 65px;
 }
 
 .orariITA_Venerdì::after {
-    content: "14:00 - 16:00";
+    content: "20:00 - 21:00";
 }
 
 .orariITA_Sabato::after {
@@ -179,7 +179,7 @@ margin-right: 65px;
 }
 
 .orariING_Venerdì::after {
-    content: "02:00pm - 04:00pm";
+    content: "08:00pm - 09:00pm";
 }
 
 .orariING_Sabato::after {
