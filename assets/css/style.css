@@ -23,7 +23,7 @@
 }
 
 .comingsoon_A{
-    display: unset
+    display: none !important
 } 
 
 .temporaneo_home {
@@ -109,7 +109,7 @@ margin-right: 65px;
 }
 
 #testoripetuto {
-    margin-top: 25px;
+    margin-top: 15px;
     margin-left: 5px;
     margin-bottom: -10px;
     height: 25px;
@@ -126,32 +126,32 @@ margin-right: 65px;
 }
 
 .testoITA::after {
-    content: "Benvenuto nel mio store! Qui potrai trovare pokèmon evento, pokémon leggendari, pokémon shiny e molto altro. Per qualsiasi dubbio e richieste contattami su uno dei miei social";
+    content: "Si informa che a partire dal 9 aprile 2024 i server del Nintendo 3ds verranno chiusi, tutti gli ordini aperti per Pokémon X, Y, Rubino Omega, Zaffiro Alpha, Sole, Luna, UltraSole e UltraLuna verranno automaticamente annullati.";
 }
 
 .testoING::after {
-    content: "Welcome to my store! Here you can find event pokémon, legendary pokémon, shiny pokémon and much more! For any questions and requests contact me on one of my social networks";
+    content: "Starting April 9, 2024, the Nintendo 3ds servers will be closed, all open orders for Pokémon X, Y, Omega Ruby, Alpha Sapphire, Sun, Moon, Ultra Sun and Ultra Moon will be automatically canceled.";
 }
 
 /* Orari */
 .orariITA_Lunedì::after {
-    content: "21:00 - 00:00";
+    content: "21:00 - 23:30";
 }
 
 .orariITA_Martedì::after {
-    content: "21:00 - 00:00";
+    content: "21:00 - 23:30";
 }
 
 .orariITA_Mercoledì::after {
-    content: "21:00 - 00:00";
+    content: "21:00 - 23:30";
 }
 
 .orariITA_Giovedì::after {
-    content: "21:00 - 00:00";
+    content: "21:00 - 23:30";
 }
 
 .orariITA_Venerdì::after {
-    content: "20:00 - 21:00";
+    content: "21:00 - 23:30";
 }
 
 .orariITA_Sabato::after {
@@ -159,27 +159,27 @@ margin-right: 65px;
 }
 
 .orariITA_Domenica::after {
-    content: "11:00 - 12:00 | 21:00 - 00:00";
+    content: "12:00 - 13:00 | 21:00 - 23:30";
 }
 
 .orariING_Lunedì::after {
-    content: "09:00pm - 12:00am";
+    content: "09:00pm - 11:30pm";
 }
 
 .orariING_Martedì::after {
-    content: "09:00pm - 12:00am";
+    content: "09:00pm - 11:30pm";
 }
 
 .orariING_Mercoledì::after {
-    content: "09:00pm - 12:00am";
+    content: "09:00pm - 11:30pm";
 }
 
 .orariING_Giovedì::after {
-    content: "09:00pm - 12:00am";
+    content: "09:00pm - 11:30pm";
 }
 
 .orariING_Venerdì::after {
-    content: "08:00pm - 09:00pm";
+    content: "09:00pm - 11:30pm";
 }
 
 .orariING_Sabato::after {
@@ -187,11 +187,7 @@ margin-right: 65px;
 }
 
 .orariING_Domenica::after {
-    content: "11:00am - 12:00pm | 09:00pm - 12:00am";
-}
-
-#menuprincipale {
-padding-top: 20px;
+    content: "12:00pm - 13:00pm | 09:00pm - 11:30pm";
 }
 
 #menuprincipale li {
@@ -308,7 +304,7 @@ padding-top: 20px;
 .fiocco {
     width: 50px;
     margin-top: 40px;
-    margin-bottom: -150px;
+    margin-bottom: -70px;
     margin-left: -20px;
 }
 
