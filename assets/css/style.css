@@ -126,32 +126,32 @@ margin-right: 65px;
 }
 
 .testoITA::after {
-    content: "Si informa che a partire dal 9 aprile 2024 i server del Nintendo 3ds verranno chiusi, tutti gli ordini aperti per Pokémon X, Y, Rubino Omega, Zaffiro Alpha, Sole, Luna, UltraSole e UltraLuna verranno automaticamente annullati.";
+    content: "Benvenuto nel mio store! Qui potrai trovare pokèmon evento, pokémon leggendari, pokémon shiny e molto altro. Per qualsiasi dubbio e richieste contattami su uno dei miei social";
 }
 
 .testoING::after {
-    content: "Starting April 9, 2024, the Nintendo 3ds servers will be closed, all open orders for Pokémon X, Y, Omega Ruby, Alpha Sapphire, Sun, Moon, Ultra Sun and Ultra Moon will be automatically canceled.";
+    content: "Welcome to my store! Here you can find event pokémon, legendary pokémon, shiny pokémon and much more! For any questions and requests contact me on one of my social networks";
 }
 
 /* Orari */
 .orariITA_Lunedì::after {
-    content: "21:00 - 23:30";
+    content: "22:00 - 23:30";
 }
 
 .orariITA_Martedì::after {
-    content: "21:00 - 23:30";
+    content: "22:00 - 23:30";
 }
 
 .orariITA_Mercoledì::after {
-    content: "21:00 - 23:30";
+    content: "22:00 - 23:30";
 }
 
 .orariITA_Giovedì::after {
-    content: "21:00 - 23:30";
+    content: "22:00 - 23:30";
 }
 
 .orariITA_Venerdì::after {
-    content: "21:00 - 23:30";
+    content: "22:00 - 23:30";
 }
 
 .orariITA_Sabato::after {
@@ -163,23 +163,23 @@ margin-right: 65px;
 }
 
 .orariING_Lunedì::after {
-    content: "09:00pm - 11:30pm";
+    content: "10:00pm - 11:30pm";
 }
 
 .orariING_Martedì::after {
-    content: "09:00pm - 11:30pm";
+    content: "10:00pm - 11:30pm";
 }
 
 .orariING_Mercoledì::after {
-    content: "09:00pm - 11:30pm";
+    content: "10:00pm - 11:30pm";
 }
 
 .orariING_Giovedì::after {
-    content: "09:00pm - 11:30pm";
+    content: "10:00pm - 11:30pm";
 }
 
 .orariING_Venerdì::after {
-    content: "09:00pm - 11:30pm";
+    content: "10:00pm - 11:30pm";
 }
 
 .orariING_Sabato::after {
