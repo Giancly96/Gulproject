@@ -126,11 +126,11 @@ margin-right: 65px;
 }
 
 .testoITA::after {
-    content: "Benvenuto nel mio store! Qui potrai trovare pokèmon evento, pokémon leggendari, pokémon shiny e molto altro. Per qualsiasi dubbio e richieste contattami su uno dei miei social";
+    content: "Benvenuto nel mio store! Qui potrai trovare pokèmon evento, pokémon leggendari, pokémon shiny e molto altro. Per qualsiasi dubbio e richieste contattami su ebay";
 }
 
 .testoING::after {
-    content: "Welcome to my store! Here you can find event pokémon, legendary pokémon, shiny pokémon and much more! For any questions and requests contact me on one of my social networks";
+    content: "Welcome to my store! Here you can find event pokémon, legendary pokémon, shiny pokémon and much more! For any questions and requests contact me on ebay";
 }
 
 /* Orari */
