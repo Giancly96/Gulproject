@@ -30,6 +30,10 @@
     display: visible;
 }
 
+.chiusura_3ds {
+    display: visible;
+}
+
 .no-select {
     -webkit-touch-callout: none;
     -webkit-user-select: none;
